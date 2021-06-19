@@ -1,4 +1,3 @@
-# apps/web/controllers/books/index.rb
 module Web
   module Controllers
     module Books

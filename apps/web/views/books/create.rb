@@ -1,4 +1,3 @@
-# apps/web/views/books/create.rb
 module Web
   module Views
     module Books
